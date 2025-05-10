@@ -15,7 +15,7 @@ Hey there! I’m a **third-year Computer Science student** 🎓 with a passion f
 
 ## 💼 Trainer Mode: ON
 
-🏫 When I’m not coding till sunrise, I work as a **trainer at Logiscool Galați-Brăila**, teaching 8–10 year olds 🧒👧:
+🏫 When I’m not coding till sunrise, I work as a **trainer at Logiscool Galați-Brăila**, teaching 6–18 year olds 🧒👧:
 - Programming with **JavaScript** & **Python** 🐍  
 - Logic, creativity, and a sprinkle of empathy (or at least I try 😅)
 
